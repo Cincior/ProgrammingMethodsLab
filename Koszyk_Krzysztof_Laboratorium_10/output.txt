@@ -1,0 +1,11 @@
+\-index: 0; pozycja: 0; p: 0; w: 0; maxP: 0; b: 100; Czy obiecujacy: 1
+  |-index: 1; pozycja: 1; p: 20; w: 2; maxP: 20; b: 100; Czy obiecujacy: 1
+  | |-index: 2; pozycja: 1; p: 50; w: 7; maxP: 50; b: 100; Czy obiecujacy: 1
+  | | |-index: 3; pozycja: 1; p: 85; w: 14; maxP: 85; b: 100; Czy obiecujacy: 1
+  | | | |-index: 4; pozycja: 1; p: 97; w: 17; maxP: 97; b: 100; Czy obiecujacy: 1
+  | | | | |-index: 5; pozycja: 1; p: 100; w: 18; maxP: 100; b: 100; Czy obiecujacy: 0
+  | | | | \-index: 5; pozycja: 2; p: 97; w: 17; maxP: 100; b: 97; Czy obiecujacy: 0
+  | | | \-index: 4; pozycja: 2; p: 85; w: 14; maxP: 100; b: 88; Czy obiecujacy: 0
+  | | \-index: 3; pozycja: 2; p: 50; w: 7; maxP: 100; b: 65; Czy obiecujacy: 0
+  | \-index: 2; pozycja: 2; p: 20; w: 2; maxP: 100; b: 70; Czy obiecujacy: 0
+  \-index: 1; pozycja: 2; p: 0; w: 0; maxP: 100; b: 80; Czy obiecujacy: 0
